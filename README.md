@@ -1,3 +1,5 @@
+![E-commerce Dashboard](images/thumbnail.png)
+
 # 🛒 E-commerce Data Analysis Dashboard
 
 ## 📊 Project Overview
